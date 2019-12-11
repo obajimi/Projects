@@ -1,0 +1,70 @@
+.headers{
+    background-image: url('./asset/images/laptop2.jpg');
+   
+    height: 700px;
+    background-size: cover; 
+    
+}
+
+.headers img{
+    filter: brightness(90%);
+}
+
+.bgk-pic{
+    background-image: url(./asset/images/team2.jpg);
+    height: 700px;
+    opacity: 0.8;
+    background-repeat: no-repeat;
+    position: relative;
+    bottom: 502px;
+    left: 695px;  
+    z-index: 1;
+    
+}
+
+
+.header-text{
+    color: white;
+    padding-top: 230px;
+    padding-left: 50px;
+    z-index: 3;
+}
+
+.resume-sec{
+    background-color: white;
+    height: 600px;
+}
+
+.padding-0{
+    padding: 0px !important;
+}
+
+.nav-txt{
+    color:  #00bcd5;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.nav-text{
+    position: relative;
+    left: 350px;  
+}
+
+.font-awe{
+position: relative;
+left: 490px;
+color: gold;
+}
+
+.resume-txt{
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.hr-icon{
+    color: gold;
+}
+
+
